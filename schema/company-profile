@@ -1,0 +1,11 @@
+{
+     "@context": "https://legalentities.app/schema",
+     "@type": "company-profile",
+     "event-type-version": "v0.001",
+     "event-type-description": "Event type the master / reference data of a legal entity",
+     "event-type-search-fields" : ["company-name","company-form","company-address","company-LEI"],
+     "company-name": "",
+     "company-form": "",
+     "company-address": "",
+     "company-LEI": ""
+}
