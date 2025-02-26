@@ -1,8 +1,0 @@
-{
-     "@context": "https://legalentities.app/schema",
-     "@type": "company-credit-rating",
-     "event-type-version": "v0.001",
-     "event-type-description": "Event type representing legal entity credit rating",
-     "event-type-search-fields" : ["company-credit-rating"],
-     "company-credit-rating": "Standard & Poor’s: BBB; Moody’s: A3; Fitch: BBB+"
-}
