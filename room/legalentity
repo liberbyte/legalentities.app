@@ -3,5 +3,5 @@
      "@type": "legalentity-company",
      "room-type-version": "v0.001",
      "room-type-description": "Room represents legalentity in the sense of a company or a natural person",
-     "entity-type": "natural | juridical" 
+     "entity-type": "natural | legal" 
 }
