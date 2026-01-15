@@ -10,7 +10,7 @@
       },
       {
         "key": "type",
-        "value": "legal"
+        "value": "legal|natural"
       },
       {
         "key": "jurisdiction",
