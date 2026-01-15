@@ -15,5 +15,18 @@
       {
         "key": "jurisdiction",
         "value": "DE"
+      },
+      {
+       "@context": "https://schema.org",
+       "@type": "Organization",
+       "address": {
+         "@type": "PostalAddress",
+         "addressLocality": "null",
+         "addressRegion": "null",
+         "postalCode": "null",
+         "streetAddress": "null"     
+      },
+        "url": "https://search.gleif.org/#/record/[$lei]"
       }
+    ]
 }
