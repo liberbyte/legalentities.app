@@ -3,6 +3,7 @@
      "@type": "legalentity",
      "room-type-version": "v0.001",
      "room-type-description": "Room represents legalentity in the sense of a company or a natural person",
+     "state_key": "room-type-legalentity",
      "room-alias-attributes": [
       {
         "key": "lei",
