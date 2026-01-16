@@ -1,5 +1,5 @@
 {
-     "@context": "https://legalentities.app/room",
+     "@context": "https://legalentities.app/room-type",
      "@type": "legalentity",
      "room-type-version": "v0.001",
      "room-type-description": "Room represents legalentity in the sense of a company or a natural person",
